@@ -1,0 +1,11 @@
+{
+    "status":0,
+    "data":{
+        "user":{
+            "id":"1",
+            "userName":"dms",
+            "age":18
+        }
+    },
+    "msg":""
+}
